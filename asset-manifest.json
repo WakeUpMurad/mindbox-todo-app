@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mindbox-todo-app/static/js/main.b9bfb4e9.js",
+    "index.html": "/mindbox-todo-app/index.html",
+    "main.b9bfb4e9.js.map": "/mindbox-todo-app/static/js/main.b9bfb4e9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b9bfb4e9.js"
+  ]
+}
